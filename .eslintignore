@@ -1,0 +1,7 @@
+/build
+/public/build
+/node_modules
+/.cache
+/yarn.lock
+*.d.ts
+base.min.js

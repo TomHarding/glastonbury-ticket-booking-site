@@ -1,0 +1,16 @@
+# Build
+/build
+/public/build
+
+# Debug
+yarn.lock
+
+# Dependencies
+/node_modules
+
+# Misc
+/.cache
+base.min.js
+
+# README
+README.md

@@ -1,8 +1,8 @@
-# Glastonbury Ticket Site Replica
+# Glastonbury Ticket Booking Site Replica
 
 <img width="1050" alt="image" src="https://github.com/user-attachments/assets/713754c8-46d9-49f6-84bd-ba473e3529eb">
 
-Small application that replicates the Glastonbury SeeTickets site. Built to use as a test site for building a bot to automate the ticket buying process.
+Small application that replicates the Glastonbury SeeTickets site.
 
 ## Install Dependencies
 
